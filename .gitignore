@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.backup
+~$*
+rapport-billeder/
+*.docx
+*.drawio
